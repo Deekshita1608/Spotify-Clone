@@ -26,7 +26,7 @@ A desktop-based Spotify clone built using Java Swing, providing a music player i
   cd spotify-clone
 - **Compile the project**
   ```bash
-  javac -d app/bin app/src/**/*.java
+  javac -d app/bin app/src/main/java/com/example/Spotify/clone/*.java
 - **Run the project**
   ```bash
   java -cp app/bin SpotifyUI
