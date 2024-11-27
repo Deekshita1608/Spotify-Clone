@@ -21,12 +21,14 @@ A desktop-based Spotify clone built using Java Swing, providing a music player i
 - **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/spotify-clone.git
-   bash```
--**Navigate to project directory**
+- **Navigate to project directory**
+  ```bash
     cd spotify-clone
--**Compile the project**
+- **Compile the project**
+  ```bash
   javac -d app/bin app/src/**/*.java
--**Run the project**
+- **Run the project**
+  ```bash
   java -cp app/bin SpotifyUI
 ## Acknowledgments 🙌
 - Inspired by Spotify.
