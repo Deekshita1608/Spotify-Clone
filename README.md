@@ -12,8 +12,7 @@ A desktop-based Spotify clone built using Java Swing, providing a music player i
 - 🔍 **Search Functionality**: Quickly find your favorite songs.  
 
 ## Screenshot 📸
-![Spotify Clone Screenshot]([spotify screenshot.png](https://github.com/Deekshita1608/Spotify-Clone/blob/master/spotify%20screenshot.png))  
-*(Add an actual screenshot of your application here)*  
+([spotify screenshot.png](https://github.com/Deekshita1608/Spotify-Clone/blob/master/spotify%20screenshot.png))   
 
 ## Requirements ⚙️
 
