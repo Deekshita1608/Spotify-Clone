@@ -20,3 +20,6 @@ A desktop-based Spotify clone built using Java Swing, providing a music player i
 - **Java JDK 8 or higher**  
 - **Operating System**: Windows
 - **Audio Files**: Supports MP3 format (ensure your Java setup includes audio codec support)  
+## Acknowledgments 🙌
+- Inspired by Spotify.
+- Built with Java Swing.
