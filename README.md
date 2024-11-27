@@ -11,14 +11,25 @@ A desktop-based Spotify clone built using Java Swing, providing a music player i
 - 🔁 **Playlist Support**: Create, save, and manage custom playlists.  
 - 🔍 **Search Functionality**: Quickly find your favorite songs.  
 
-## Screenshot 📸
-(https://github.com/Deekshita1608/Spotify-Clone/blob/master/spotify%20screenshot.png)
-
 ## Requirements ⚙️
 
 - **Java JDK 8 or higher**  
 - **Operating System**: Windows
-- **Audio Files**: Supports MP3 format (ensure your Java setup includes audio codec support)  
+- **XAMPP**
+- **MySQL**
+- **Audio Files**: Supports MP3 format (ensure your Java setup includes audio codec support)
+
+## Set-up
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/spotify-clone.git
+- Use insert.ipynb to insert local music to database.
+2. Navigate to project directory
+  -cd spotify-clone
+3. Compile project
+  -javac -d bin src/*.java
+4. Run the application
+  -java -cp bin SpotifyUI
 ## Acknowledgments 🙌
 - Inspired by Spotify.
 - Built with Java Swing.
